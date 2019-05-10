@@ -1,25 +1,15 @@
-# _React Tap Room_
+# _Capstone Appointment App_
 
-####  _This application is bar website that allows users to see available beverages, add and remove them from the list, and add or subtract the amount remaining._
+####  _This application is an app to easily setup and schedule appointments for True North Photography._
 
 #### By _**Riley Benson**_
 
 ## Description
 
-_This application is bar website that allows users to see available beverages, add and remove them from the list, and add or subtract the amount remaining._
+_This application is an app to easily setup and schedule appointments for True North Photography. It will allow users to mark a calendar to schedule appointments, pay for photo-shoot sessions, and look up additional information about the company._
 
-## Component Sketch
-
-![Alt text](./src/assets/images/tree.jpeg "Tree")
-
-## Features
-* _<strong>COMPLETE</strong>_
-* _Users can input name/brand, price, and alcohol content of beverages_
-* _Users can add beverages to the menu_
-
-* _<strong>INCOMPLETE</strong>_
-* _Users can remove beverages from the menu_
-* _Implement admin page_
+## First Friday Work-Flow
+_From about 8-10 a.m. I went over what exactly this application needed in detail and what I thought I should prioritize as MVP. I also spent a part of that time looking at other appointment apps online to get inspiration. As a result of this my MVP has changed quite a bit. The messaging feature is no longer a part of the MVP and it will be built using mobile first design. I am tempted to use React native but honestly am unsure if I would be able to complete a solid piece if presentable work by presentation day. So I will just use regular React and can always go back later if I choose to. After that my day consisted of looking at other appointment apps and choosing the parts from specific websites I would like to mirror in my design as well as completing wireframes using Lunacy. I was able to find the color scheme I would like to use as well as design multiple pages and create general layouts for others._
 
 ## Setup/Installation Requirements
 
@@ -27,10 +17,6 @@ _This application is bar website that allows users to see available beverages, a
 * _Open the repository in your preferred text editor_
 * _Run 'npm install' in your preferred terminal(node.js must be downloaded on the computer)._
 * _run 'npm run start' in your preferred terminal to launch the application in a web browser._
-
-## Differences between React and Angular
-
-_Overall, I like React much more than Angular. The components are much simpler to keep track of and the importing seems easier to me, although that is probably just because I have a basic understanding now. However, I did like how Angular had its own styles page for each component. It's hard for me to keep track of all the CSS in React and it takes me way to long to implement it which I found slightly annoying. So far I'm liking React much more than Angular though._
 
 ## Known Bugs
 
@@ -42,7 +28,7 @@ _E-mail ryguybenson@yahoo.com with any questions, concerns, or to make a contrib
 
 ## Technologies Used
 
-_This project was generated with ReactJS_
+_Lunacy_
 
 ### License
 
